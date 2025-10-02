@@ -1,4 +1,5 @@
-# Hi there, my name is Fran 👋
+<!-- prettier-ignore-start -->
+# Hi there, my name is Fede 👋
 
 😁 Contact me here!
 
@@ -22,38 +23,27 @@
 <br/>
 
 ## 🛠 Tech Stack
-
-| Frontend | | | |
-
-| :--------------------------------------: | :-------------------------------------: | :--------------------------------------: | :---------------------------------------: |
-
+| **Frontend** |  |  |  |
+| :-----------: | :-------------------------------------: | :--------------------------------------: | :---------------------------------------: |
 | <img src="assets/html5.png" height="32"> | <img src="assets/css.png" height="32"> | <img src="assets/react.svg" height="32"> | <img src="assets/vite.svg" height="32"> |
+| HTML5         | CSS3                                  | React                                  | Vite.js                                  |
 
-| HTML5 | CSS3 | React | Vite.js |
+| **Backend**   |  |  |  |
+| :-----------: | :--------------------------------------: | :-------------------------------------: | :---------------------------------------: |
+| <img src="assets/nodejs.png" height="32"> | <img src="assets/express.png" height="32"> | <img src="assets/prisma.svg" height="32"> | <img src="assets/postgreSQL.png" height="32"> |
+| Node.js       | Express                               | Prisma                                 | PostgreSQL                              |
 
-| Backend | | | |
+| **Full Stack**|  |  |  |
+| :-----------: | :-------------------------------------: | :-------------------------------------: | :---------------------------------------: |
+| <img src="assets/javascript.png" height="32"> | <img src="assets/postman.png" height="32"> | <img src="assets/cloudinary.svg" height="32"> | <img src="assets/socketio.png" height="32"> | <img src="assets/postman.png" height="32"> |
+| JavaScript    | Postman                           | Cloudinary                            | Socket.io                               | Postman                                 |
 
-| :---------------------------------------: | :----------------------------------------: | :------------------------------------------: | :----------------------------------------: |
-
-| <img src="assets/nodejs.png" height="32"> | <img src="assets/express.png" height="32"> | <img src="assets/prisma.svg" height="32"> | <img src="assets/postgreSQL.svg" height="32"> |
-
-| Node.js | Express | Prisma | PostgreSQL |
-
-| Full Stack | | | | |
-
-| :-------------------------------------------: | :-------------------------------------------: | :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: |
-
-| <img src="assets/javascript.png" height="32"> | <img src="assets/typescript.png" height="32"> | <img src="assets/cloudinary.svg" height="32"> | <img src="assets/socketio.png" height="32"> | <img src="assets/postman.png" height="32"> |
-
-| JavaScript | TypeScript | Cloudinary | Socket.io | Postman |
-
-| Tools & Platforms | | |
-
-| :------------------------------------: | :----------------------------------------: | :---------------------------------------: |
-
+| **Tools & Platforms** |  |  |
+| :-------------------: | :---------------------------------: | :-----------------------------------: |
 | <img src="assets/git.png" height="32"> | <img src="assets/github.webp" height="32"> | <img src="assets/vscode.svg" height="32"> |
+| Git                   | GitHub                               | VS Code                               |
 
-| Git | GitHub | VS Code |
+
 
 ## ⚙️ Git Analytics ⚡
 
@@ -64,3 +54,4 @@
 
 [portfolio]: https://betodev.netlify.app/
 [linkedin]: https://www.linkedin.com/in/francisco-go%C3%B1i-piuma-dev/
+<!-- prettier-ignore-end -->

@@ -4,7 +4,6 @@
 😁 Contact me here!
 
 - [Linkedin][linkedin]
-- [Personal website][portfolio]
 
 ## I am a 🎨Full Stack Developer🖥️ and a 👨‍🎓Business Administrator📈
 
@@ -52,6 +51,6 @@
 
 <hr/>
 
-[portfolio]: https://betodev.netlify.app/
-[linkedin]: https://www.linkedin.com/in/francisco-go%C3%B1i-piuma-dev/
+[linkedin]: www.linkedin.com/in/federico-wulff-8521bb388
+
 <!-- prettier-ignore-end -->

@@ -51,6 +51,6 @@
 
 <hr/>
 
-[linkedin]: www.linkedin.com/in/federico-wulff-8521bb388
+[linkedin]: https://www.linkedin.com/in/federico-wulff-8521bb388/
 
 <!-- prettier-ignore-end -->

@@ -32,10 +32,10 @@
 | <img src="assets/nodejs.png" height="32"> | <img src="assets/express.png" height="32"> | <img src="assets/prisma.svg" height="32"> | <img src="assets/postgreSQL.png" height="32"> |
 | Node.js       | Express                               | Prisma                                 | PostgreSQL                              |
 
-| **Full Stack**|  |  |  |
-| :-----------: | :-------------------------------------: | :-------------------------------------: | :---------------------------------------: |
-| <img src="assets/javascript.png" height="32"> | <img src="assets/postman.png" height="32"> | <img src="assets/cloudinary.svg" height="32"> | <img src="assets/socketio.png" height="32"> | <img src="assets/postman.png" height="32"> |
-| JavaScript    | Postman                           | Cloudinary                            | Socket.io                               | Postman                                 |
+| **Full Stack**|  |  |  |  |
+| :-----------: | :-------------------------------------: | :-------------------------------------: | :---------------------------------------: | :---------------------------------------: |
+| <img src="assets/javascript.png" height="32"> | <img src="assets/typescript.png" height="32"> | <img src="assets/postman.png" height="32"> | <img src="assets/cloudinary.svg" height="32"> | <img src="assets/socketio.png" height="32"> | <img src="assets/postman.png" height="32"> |
+| JavaScript    | TypeScript    | Postman                           | Cloudinary                            | Socket.io                               | Postman                                 |
 
 | **Tools & Platforms** |  |  |
 | :-------------------: | :---------------------------------: | :-----------------------------------: |
